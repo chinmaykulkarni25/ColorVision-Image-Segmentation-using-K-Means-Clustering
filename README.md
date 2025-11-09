@@ -28,3 +28,14 @@ Object and Region Detection
 Medical Image Analysis
 Background Removal
 Image Simplification and Compression
+<img width="636" height="658" alt="Image" src="https://github.com/user-attachments/assets/8cda4e2b-b783-4a3a-b896-4b4993f247a3" />
+
+<img width="636" height="658" alt="Image" src="https://github.com/user-attachments/assets/ebc23a04-bc8c-428c-a17a-3b67169e3d80" />
+
+<img width="793" height="812" alt="Image" src="https://github.com/user-attachments/assets/ad22bc47-b08a-482d-be39-adad9e21abf2" />
+
+<img width="834" height="819" alt="Image" src="https://github.com/user-attachments/assets/34b91ec4-510d-49c4-a48e-4f204f772ad6" />
+
+<img width="834" height="819" alt="Image" src="https://github.com/user-attachments/assets/cc53f93b-5461-4a4d-9dd7-e998c2f7b513" />
+
+<img width="1227" height="594" alt="Image" src="https://github.com/user-attachments/assets/f3665eee-c562-4d9e-9a01-885cc0d5f285" />
